@@ -9,8 +9,8 @@ from telegram.ext import (
     CallbackQueryHandler, ContextTypes, filters
 )
 
-TELEGRAM_TOKEN = 'ВАШ_ТОКЕН_ТУТА'  # <-- Вставьте сюда свой токен Telegram
-VK_TOKEN = ''      # <-- Вставьте сюда токен VK
+TELEGRAM_TOKEN = '8007646725:AAFLp7AeRkK7XTKOUVMzSeLksYxigtZZnZk'  # <-- Вставьте сюда свой токен Telegram
+VK_TOKEN = '128fbd02128fbd02128fbd027b11bae1c91128f128fbd027aedf0331c2bbca772df82c4'      # <-- Вставьте сюда токен VK
 
 logging.basicConfig(
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
